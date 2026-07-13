@@ -22,6 +22,9 @@ Automated detection of 8 types of industrial defects using deep learning with Re
 - Split: 80% training, 10% validation, 10% test
 
 ---
+Dowload dataset :
+Source: The dataset used in this project is the Pipeline Defect Image Dataset, available at the official RDLK-YOLO repository: [https://github.com/aussup/Pipeline-Defect-Image-Dataset.git.] This dataset is part of the study "RDLK-YOLO enhanced pipeline defect detection in uneven illumination" published in Scientific Reports.
+
 
 ## 🛠️ Methodology & Techniques
 

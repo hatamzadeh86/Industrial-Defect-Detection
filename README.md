@@ -115,7 +115,7 @@ Macro Avg: Precision: 0.84 | Recall: 0.76 | F1: 0.80
 ## 📎 Repository Links
 
 - GitHub Repository: [https://github.com/hatamzadeh86/Industrial-Defect-Detection]
-- LinkedIn Post: [Your LinkedIn Post URL]
+- LinkedIn Post: [https://www.linkedin.com/posts/amir-mohammad-hatemzadeh-44b2a138b_aevaewaecabraetaedaeuaewaehahy-ahyaepaexagvahyaezahyabraetaepaecahyaeu-share-7482415281248780288-fV5f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_4-zsB7252ovZFAEqjYWCbqVsUSAzpF2g]
 
 ---
 
